@@ -1,0 +1,22 @@
+/?s=  
+
+/search?q= 
+
+/index.php?lang=	
+
+/index.php?page=	                 
+
+/search?query=	         
+
+/?email=	                            ||----------->>> Check once to see more(https://www.openbugbounty.org/blog/devl00p/top-100-xss-dorks)                                                              
+/?cat=	                           
+
+/login?redirect_uri=	               
+
+/connexion?redirect_uri=	
+
+/search/?q=	             
+
+/index.php?pn             
+
+/?lang=
