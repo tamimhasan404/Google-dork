@@ -7,10 +7,12 @@
 
 ![images](https://user-images.githubusercontent.com/66991901/108486622-752f6c80-72c8-11eb-9dfe-04ccdc901bac.jpg)
 
-# Read for better understand
+# A better understanding of "DORKS" and how it works.
 
 - # What Is Google Dork
 -  In simple word it is a techniques to find exact information from google ocean.
+
+It is basically a search string that uses advanced search query to find information that are not easily available on the websites. It is also regarded as illegal google hacking activity which hackers often uses for purposes such as cyber terrorism and cyber theft.
 
 `filetype:xls` 
 
@@ -43,7 +45,3 @@ ATOM file extension is an Atom Feed file saved as a plain text file and formatte
 `ext:doc`
 
 DOC file extension refers to a word processing document format. This binary file format is proprietary of Microsoft and is native to Microsoft's most popular word processing application, Microsoft Word. It's a plain text document format which can also contain hyperlinks, images, alignments, etc.
-
-
-
-
